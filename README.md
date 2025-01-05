@@ -14,8 +14,28 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
-## App Brainstorming (Step 4)
+Additionaly
+- [x] Improve the UI by using different fonts/colors/background
+- [x] Feel free to play around with other elements, such as image views, textfields, etc.
+- [x] Iplement a way to change the color of the text as well
 
+## App Brainstorming (Step 4)
+    Doulingo
+    - engaging learning with goals, badges, and streak challenge
+    - interacting with friends like friends quests
+    
+    Youtube Music
+    - creating recomendations based on your preferences
+    - creating own custom playlists 
+    
+    I want to build an Expense Tracker app that helps users monitor and manage their daily expenses effectively. The app will allow users to:
+
+    - Track expenses with detailed entries for date, amount, and category.
+    - View expenses filtered by a specific time period or category.
+    - Visualize spending habits through intuitive chart visualizations.
+    - Plan a budget, including a weekly budget feature to encourage better financial discipline.
+    This project aims to combine functionality with a clean and user-friendly interface, making expense tracking both accessible and insightful.
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
