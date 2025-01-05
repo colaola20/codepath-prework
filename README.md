@@ -19,6 +19,9 @@ Additionaly
 - [x] Feel free to play around with other elements, such as image views, textfields, etc.
 - [x] Iplement a way to change the color of the text as well
 
+
+![ScreenRecording2025-01-04at11 39 32PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a6938ed1-28f5-4d75-a832-86f411c31f19)
+
 ## App Brainstorming (Step 4)
     Doulingo
     - engaging learning with goals, badges, and streak challenge
